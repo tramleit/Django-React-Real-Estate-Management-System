@@ -1,104 +1,84 @@
-Contribution: 2021-05-11 20:00
+# Real Estate App using React as Frontend and Django as Backend by Rajan Gautam
 
-Contribution: 2021-05-12 20:00
+## Steps to Run the Application
 
-Contribution: 2021-05-28 20:00
+Pull the repository into your device and run it as you used to run Django Application.
 
-Contribution: 2021-05-31 20:00
+-   (You need to install 'requirements.txt' if you don't have these already)
 
-Contribution: 2021-06-10 20:00
+-   (You also need to build React Application as it has been ignored in git and also need node_modules.)
 
-Contribution: 2021-06-12 20:00
+-   Note: You need to provide your Google Account Details in Settings File.
 
-Contribution: 2021-06-18 20:00
+OR You can simply go through the below link.
 
-Contribution: 2021-06-23 20:00
+### Link: https://rgautam320-real-estate.herokuapp.com
 
-Contribution: 2021-06-30 20:00
+## User View
 
-Contribution: 2021-07-06 20:00
+### 1. Home Page
 
-Contribution: 2021-07-11 20:00
+When you first open the application, you will see the home page where you can see the search options and default search results just below. You will see two menu icons (One at right top and another at left top).
 
-Contribution: 2021-07-19 20:00
+![Real-Estate-Home](https://user-images.githubusercontent.com/71542496/126948127-24f67fa6-ff8e-4055-9ad3-3d92c893b247.png)
 
-Contribution: 2021-07-21 20:00
+### 2. Listing Page
 
-Contribution: 2021-07-27 20:00
+You can see all the listings here.
 
-Contribution: 2021-08-06 20:00
+![Real-Estate-Listing](https://user-images.githubusercontent.com/71542496/126948475-2692512c-714b-470f-8f02-7f8256e449b7.png)
 
-Contribution: 2021-08-07 20:00
+### 3. About Page
 
-Contribution: 2021-08-10 20:00
+In about page, you can see about the company, top sellers and listed sellers.
 
-Contribution: 2021-08-18 20:00
+![Real-Estate-About](https://user-images.githubusercontent.com/71542496/126949090-f83bf783-1330-4e0c-96b9-8e37a2af0c87.png)
 
-Contribution: 2021-08-21 20:00
+### 4. Contact Page
 
-Contribution: 2021-08-22 20:00
+There is a seperate contact page from where you can contact to the company. You will also get response email after sending messages.
 
-Contribution: 2021-08-30 20:00
+![Real-Estate-Contact](https://user-images.githubusercontent.com/71542496/126949256-9adc748c-5cbc-435e-8b5d-f2839295b35a.png)
 
-Contribution: 2021-09-01 20:00
+### 5. Login and Signup Page
 
-Contribution: 2021-09-13 20:00
+You need an account to view the details page and make order. For that you just need to go to Signup page and create an account.
 
-Contribution: 2021-09-18 20:00
+![Real-Estate-Signup](https://user-images.githubusercontent.com/71542496/126949535-ab52f3cc-808a-4d50-91cf-2d1392a0f922.png)
 
-Contribution: 2021-10-03 20:00
+![Real-Estate-Login](https://user-images.githubusercontent.com/71542496/126949599-60a26190-55d2-4110-aeb2-15ca19b34f07.png)
 
-Contribution: 2021-10-04 20:00
+### 6. Details Page
 
-Contribution: 2021-10-06 20:00
+You can view the details page after logging in. You can see the complete details about the house/condo/townhouse in this page. You can also see the images and description of those and about the seller also. You can also contact the seller directly from the contact section.
+If you want to buy, then you just need to click on "BUY NOW" button.
 
-Contribution: 2021-10-08 20:00
+![Real-Estate-Ocean-Home](https://user-images.githubusercontent.com/71542496/126949836-3075241c-b9fe-475c-9ad1-776f18642921.png)
 
-Contribution: 2021-10-10 20:00
+### 7. Buy Page
 
-Contribution: 2021-10-16 20:00
+You can use "DISCOUNT100" coupon to buy that item. If you could buy that item successfully, then you will get confirmation message there only.
 
-Contribution: 2021-10-27 20:00
+![Real-Estate-Ocean-Home-Buy](https://user-images.githubusercontent.com/71542496/126950250-fe9191b6-a37d-4772-acc3-6a62bef1301a.png)
 
-Contribution: 2021-10-30 20:00
+### 8. Profile Page
 
-Contribution: 2021-11-03 20:00
+In profile page, you can see about your info as well as the orders you have made. You can see your buyings on clicking on the Item Name coloured in blue.
 
-Contribution: 2021-11-04 20:00
+![Real-Estate-Profile](https://user-images.githubusercontent.com/71542496/126950607-61d81403-7579-442e-b8e1-1d7a94190bd2.png)
 
-Contribution: 2021-11-16 20:00
+### 9. Brought Page
 
-Contribution: 2021-11-25 20:00
+You can see full details about what you have brought.
 
-Contribution: 2021-12-08 20:00
+![Real-Estate-River-Side-House](https://user-images.githubusercontent.com/71542496/126950796-a1698fdb-b48b-418d-aaea-91cc8dc77fbf.png)
 
-Contribution: 2021-12-10 20:00
+### 10. Admin Page
 
-Contribution: 2022-01-10 20:00
+From the admin page, you can manage almost all things.
 
-Contribution: 2022-01-24 20:00
+![Real Estate - Admin](https://user-images.githubusercontent.com/71542496/126960020-9c794376-fba4-4a5f-8bb4-1e47a263dcbb.png)
 
-Contribution: 2022-02-03 20:00
+## Thank You
 
-Contribution: 2022-02-10 20:00
-
-Contribution: 2022-02-14 20:00
-
-Contribution: 2022-02-17 20:00
-
-Contribution: 2022-02-28 20:00
-
-Contribution: 2022-03-28 20:00
-
-Contribution: 2022-03-29 20:00
-
-Contribution: 2022-04-03 20:00
-
-Contribution: 2022-04-10 20:00
-
-Contribution: 2022-04-13 20:00
-
-Contribution: 2022-04-14 20:00
-
-Contribution: 2022-04-19 20:00
-
+## Rajan Gautam
