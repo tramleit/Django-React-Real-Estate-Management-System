@@ -10,10 +10,6 @@ Pull the repository into your device and run it as you used to run Django Applic
 
 -   Note: You need to provide your Google Account Details in Settings File.
 
-OR You can simply go through the below link.
-
-### Link: https://rgautam320-real-estate.herokuapp.com
-
 ## User View
 
 ### 1. Home Page
