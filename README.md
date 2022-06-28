@@ -80,5 +80,3 @@ From the admin page, you can manage almost all things.
 ![Real Estate - Admin](https://user-images.githubusercontent.com/71542496/126960020-9c794376-fba4-4a5f-8bb4-1e47a263dcbb.png)
 
 ## Thank You
-
-## Rajan Gautam
